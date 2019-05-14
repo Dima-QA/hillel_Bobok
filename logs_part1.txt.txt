@@ -1,0 +1,15 @@
+8dabf8d (HEAD -> master, develop) HEAD@{0}: merge develop: Fast-forward
+00de3be HEAD@{1}: checkout: moving from develop to master
+8dabf8d (HEAD -> master, develop) HEAD@{2}: commit (merge): fixed conflict
+8e570cb (test) HEAD@{3}: merge test: Fast-forward
+a77236d HEAD@{4}: checkout: moving from release to develop
+4142d16 (release) HEAD@{5}: commit: sixth commit
+eeafbaa HEAD@{6}: commit: fifth commit
+a77236d HEAD@{7}: checkout: moving from develop to release
+a77236d HEAD@{8}: checkout: moving from test to develop
+8e570cb (test) HEAD@{9}: commit: fourth commit
+509a3ca HEAD@{10}: commit: third commit
+a77236d HEAD@{11}: checkout: moving from develop to test
+a77236d HEAD@{12}: commit: second commit
+00de3be HEAD@{13}: checkout: moving from master to develop
+00de3be HEAD@{14}: commit (initial): first commit
